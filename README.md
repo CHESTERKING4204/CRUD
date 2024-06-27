@@ -1,9 +1,13 @@
 Here is the basic MERN project haing CRUD operation in it
 
 C: Create
+
 R: Remove
+
 U: Update
+
 D: Delete
+
 
 Fork the repo in your computer:
 
