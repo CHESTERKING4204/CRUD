@@ -1,4 +1,5 @@
 Here is the basic MERN project haing CRUD operation in it
+Simple and a good project fro starters
 
 C: Create
 
